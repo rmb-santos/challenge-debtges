@@ -1,24 +1,7 @@
-# challeng-debtges
+# DebtGes Internship Javascript Challenge
+This project was made with VueJS framework and with the help of Vuetify (Material Design Component Framework)
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Ricardo Santos
+Contact me at:
+* ricardo.miguel.santos97@gmail.com
+* rmb.santos@campus.fct.unl.pt
